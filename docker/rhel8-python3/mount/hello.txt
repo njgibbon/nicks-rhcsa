@@ -1,0 +1,1 @@
+Hello from the rhel8-python3 mount folder!
